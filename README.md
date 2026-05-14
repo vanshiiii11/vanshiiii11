@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vanshika Motwani 👋</h1>
 
 <p align="center">
-  <em>Frontend Developer &nbsp;·&nbsp; Open to work &nbsp;·&nbsp; Building pretty things for the web</em>
+  <em>Frontend Developer & Data Explorer &nbsp;·&nbsp; Open to work &nbsp;·&nbsp; Turning data into stories</em>
 </p>
 
 ---
@@ -9,14 +9,15 @@
 ### About me
 
 - 📍 Based in India
-- 🔭 Open to **frontend roles & internships**
-- 🌱 Currently learning **React & UI/UX design principles**
-- ✨ Passionate about building **clean, accessible, and beautiful interfaces**
-- 💬 Ask me about HTML, CSS, JavaScript, or Figma!
+- 🔭 Open to **frontend & data analytics roles / internships**
+- 📊 Currently working on **Data Science** — Power BI dashboards, Python & SQL analysis
+- 🌱 Learning **React, UI/UX design & data storytelling**
+- ✨ Passionate about building **clean interfaces & insightful data visuals**
+- 💬 Ask me about HTML, CSS, JavaScript, Figma, or Power BI!
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Frontend stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -25,9 +26,18 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+### 📊 Data & analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
 ---
 
-### 📊 GitHub stats
+### 📈 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshiiii11&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
@@ -50,4 +60,4 @@
 
 ---
 
-<p align="center"><em>"First, solve the problem. Then, write the code." — John Johnson</em></p>
+<p align="center"><em>"In God we trust; all others must bring data." — W. Edwards Deming</em></p>
