@@ -58,4 +58,4 @@
 
 ---
 
-<p align="center"><em>"Always up for a good collab, a cool project, or just a friendly chat. Let's build something!" — W. Edwards Deming</em></p>
+<p align="center"><em>"Always up for a good collab, a cool project, or just a friendly chat. Let's build something!"</em></p>
