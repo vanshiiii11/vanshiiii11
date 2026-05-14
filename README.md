@@ -40,13 +40,9 @@
 ### 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshiiii11&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshiiii11&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshiiii11&theme=github_dark" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanshiiii11&theme=default&hide_border=true" />
-</p>
 
 ---
 
