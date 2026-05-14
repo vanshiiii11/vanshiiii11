@@ -55,6 +55,8 @@
 <p>
   <a href="https://www.linkedin.com/in/vanshika-motwani-2834b632b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
+   <a href="https://instagram.com/vanshiiii_11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  &nbsp;
   <a href="mailto:vanshikamotwani120031@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
